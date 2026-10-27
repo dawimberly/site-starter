@@ -4,6 +4,7 @@
 - [ ] Confirm scope, client ownership and approvals; inventory existing site, domain, hosting and accounts.
 - [ ] Gather verified copy, permissions for assets and testimonials, accessibility needs, and contact routes.
 - [ ] Create a separate client repository and environment. Keep secrets in the hosting provider, never in source or the public intake template.
+- [ ] Inventory existing URLs, redirects, DNS, hosting and content; back up the existing site and document a DNS rollback plan, including current records and access.
 
 ## Build and verify
 - [ ] Replace examples and confirm contact links, mobile layout, keyboard navigation and page metadata.
@@ -11,6 +12,10 @@
 - [ ] Configure client-specific analytics and privacy/consent choices where appropriate. Test events without personal information and distinguish button taps from actual calls or delivered forms.
 - [ ] Set canonical domain, sitemap, robots and indexing policy. Confirm public facts before adding structured data.
 - [ ] Review on desktop and mobile; verify links, content, load speed and accessibility. Record results and unresolved issues.
+- [ ] Run axe or Lighthouse accessibility checks and manually test keyboard navigation. Review contrast for client-selected colors.
+- [ ] Replace and review the privacy policy and consent controls for the client's actual data practices and applicable requirements.
+- [ ] If applicable, check that the business name, address and phone match its Google Business Profile; use the correct public or service-area settings.
+- [ ] Test redirects from existing URLs and verify the backup and rollback steps.
 
 ## Launch and follow-up
 - [ ] Review preview and obtain client approval before publishing or changing DNS.
