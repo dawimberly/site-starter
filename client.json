@@ -1,0 +1,11 @@
+{
+  "name": "Example Business", "lang": "en", "url": "https://example.com/", "noindex": true,
+  "description": "Replace this with a concise description of your business.",
+  "headline": "Make it easy for the right people to find you.", "eyebrow": "A service business starter",
+  "headings": {"services": "Services built around your needs.", "about": "A thoughtful approach.", "contact": "Tell us what you need."},
+  "about": "Replace this with verified business information.", "cta": "Start a conversation",
+  "services": [{"title":"Service one","description":"Describe the problem this service solves."}],
+  "email": "", "phone": "", "sms": "", "booking": "", "labels": {"email":"Email us","phone":"Call us","sms":"Text us","booking":"Book a conversation"},
+  "social": [], "credentials": [], "address": "", "hours": "", "serviceArea": "", "logo": "", "ogImage": "", "colors": {"primary":"#126257", "background":"#e8f2ed"},
+  "leadForm": {"enabled":false}, "tracking": {"enabled":false,"hosts":[],"googleTagId":"","conversionId":""}
+}

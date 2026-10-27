@@ -1,0 +1,1 @@
+{"name":"client-launch-starter","private":true,"type":"module","scripts":{"build":"node scripts/build.mjs","check:example":"node scripts/check-launch.mjs --example","check:launch":"node scripts/check-launch.mjs --launch","test":"node --test --test-concurrency=1 tests/*.test.mjs"},"engines":{"node":">=20"}}
